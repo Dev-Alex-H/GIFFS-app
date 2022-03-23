@@ -4,9 +4,9 @@ import './App.css';
 import Home from './pages/home/index.js'
 import SearchResults from './pages/searchResults/index.js';
 import Detail from './pages/details/index.js';
-import { Link, Route } from 'wouter';
 import StaticContext from './context/StaticContext';
 import { GifsContextProvider } from './context/GifsContext';
+import { Link, Route } from 'wouter';
 
 function App() {
   return (
