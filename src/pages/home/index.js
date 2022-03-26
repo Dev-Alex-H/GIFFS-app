@@ -27,7 +27,7 @@ export default function Home() {
             </form>
             <div className="App-main">
                 <div className="App-results">
-                    <h3 className="App-Title">Última busqueda</h3>
+                    <h3 className="App-Title">Última búsqueda</h3>
                     <ListOfGifs gifs={gifs} />
                 </div>
                 <div className="App-category">
