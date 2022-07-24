@@ -5,6 +5,7 @@
 .App-logo {
   margin: 10px auto;
   width: 70px;
+  cursor: pointer;
 }
 
 .App-logo img {
