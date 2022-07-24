@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dev-Alex-H/GIFFS-app/static/css/main.1fcd6825.css",
+    "main.js": "/Dev-Alex-H/GIFFS-app/static/js/main.d03d4ed8.js",
+    "static/js/55.244ba3ef.chunk.js": "/Dev-Alex-H/GIFFS-app/static/js/55.244ba3ef.chunk.js",
+    "static/js/132.24a752ba.chunk.js": "/Dev-Alex-H/GIFFS-app/static/js/132.24a752ba.chunk.js",
+    "static/css/196.6f847a52.chunk.css": "/Dev-Alex-H/GIFFS-app/static/css/196.6f847a52.chunk.css",
+    "static/js/196.208a33c2.chunk.js": "/Dev-Alex-H/GIFFS-app/static/js/196.208a33c2.chunk.js",
+    "static/media/logo.png": "/Dev-Alex-H/GIFFS-app/static/media/logo.17b42638901027ff1869.png",
+    "index.html": "/Dev-Alex-H/GIFFS-app/index.html",
+    "main.1fcd6825.css.map": "/Dev-Alex-H/GIFFS-app/static/css/main.1fcd6825.css.map",
+    "main.d03d4ed8.js.map": "/Dev-Alex-H/GIFFS-app/static/js/main.d03d4ed8.js.map",
+    "55.244ba3ef.chunk.js.map": "/Dev-Alex-H/GIFFS-app/static/js/55.244ba3ef.chunk.js.map",
+    "132.24a752ba.chunk.js.map": "/Dev-Alex-H/GIFFS-app/static/js/132.24a752ba.chunk.js.map",
+    "196.6f847a52.chunk.css.map": "/Dev-Alex-H/GIFFS-app/static/css/196.6f847a52.chunk.css.map",
+    "196.208a33c2.chunk.js.map": "/Dev-Alex-H/GIFFS-app/static/js/196.208a33c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fcd6825.css",
+    "static/js/main.d03d4ed8.js"
+  ]
+}
