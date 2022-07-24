@@ -1,3 +1,8 @@
+# Giff App
+
+GIFFS app is a react project that consists of the use of an API. 
+This API gives us a list of gifs according to searches or trends, which are displayed with custom styles.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
